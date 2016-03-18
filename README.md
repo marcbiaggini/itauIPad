@@ -1,4 +1,9 @@
-Android Espresso Samples
+Itau-Varejo-Personalite
 ------------------------
 
-A collection of samples demonstrating different Espresso techniques.
+This is the not logged Area for Itaú iPad application
+
+Libraries: 
+            *Reactive Cocoa
+            *AFNetworking
+            *Mantle
